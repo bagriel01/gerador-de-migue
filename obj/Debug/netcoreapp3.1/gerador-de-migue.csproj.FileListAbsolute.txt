@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\obj\Debug\netcoreapp3.1\gerador-de-migue.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\obj\Debug\netcoreapp3.1\gerador-de-migue.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\obj\Debug\netcoreapp3.1\gerador-de-migue.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\obj\Debug\netcoreapp3.1\gerador-de-migue.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\bin\Debug\netcoreapp3.1\gerador-de-migue.exe
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\bin\Debug\netcoreapp3.1\gerador-de-migue.deps.json
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\bin\Debug\netcoreapp3.1\gerador-de-migue.runtimeconfig.json
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\bin\Debug\netcoreapp3.1\gerador-de-migue.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\bin\Debug\netcoreapp3.1\gerador-de-migue.dll
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\bin\Debug\netcoreapp3.1\gerador-de-migue.pdb
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\obj\Debug\netcoreapp3.1\gerador-de-migue.dll
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\obj\Debug\netcoreapp3.1\gerador-de-migue.pdb
+C:\Users\gabri\source\repos\Gera um migué para furar um rolê em específico\gerador-de-migue\obj\Debug\netcoreapp3.1\gerador-de-migue.genruntimeconfig.cache
